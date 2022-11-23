@@ -14,3 +14,4 @@ To localise the car plates with different lighting condition and read its charac
 
 ![image](https://user-images.githubusercontent.com/85697619/203480368-4be4e73c-04d7-44d2-b570-9fd2d270e253.png)
 ![MCG7722](https://user-images.githubusercontent.com/85697619/203481240-598828d6-670c-4df5-91b6-e4194f194445.PNG)
+![129](https://user-images.githubusercontent.com/85697619/203481525-9a601eef-4ddb-4898-bad3-9b616f0a0907.PNG)
